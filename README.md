@@ -17,9 +17,9 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-| File                          | Source     |
-| ----------------------------- | ---------- |
-| `assets/images/zelda.png` [1] | Made by Me |
-| `assets/images/rupee.png` [2] | Made BY Me |
+| File                          | Source                                                                                                      |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `assets/images/zelda.png` [1] | Drawn by Me: Inspired by https://www.deviantart.com/captainedwardteague/art/4-Swords-Link-Sprite-1129971078 |
+| `assets/images/rupee.png` [2] | Made BY Me                                                                                                  |
 
 ## References
